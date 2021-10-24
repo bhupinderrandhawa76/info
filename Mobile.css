@@ -1,0 +1,44 @@
+
+
+
+#bar{
+	
+	width:300px;
+}
+
+
+.pic img{
+	float:left;
+	width:350px;
+	height:320px;
+	margin:25px;
+	padding:40px;
+}
+
+footer
+{
+	width:100px;
+	height:20px;
+	background:url(back.png);
+	text-align:center;
+	
+	padding:20px;
+}
+
+.main {
+	height:200px;
+	width:700px;
+}
+
+.main img{
+	float:left;
+	height:300px;
+	width:300px;
+	padding:0px 0px 0px 0px;
+}
+
+.ig img{
+	float:right;
+	height:300px;
+	width:300px;
+}
